@@ -1,6 +1,6 @@
 # Hi, I'm Ana Luíza :wave:
 
-- :fire: Front-End Developer
+- :fire: FullStack Developer
 - :books: Software Engineering - Universidade de Brasília
 
 <div align="center"> 
